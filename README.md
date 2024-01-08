@@ -32,6 +32,7 @@
 
 ## Connect with me 📫
 
+<div style="inline">
 <a href="https://www.linkedin.com/in/nataniel-jayaseelan-80977b223/"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/nataniel-jayaseelan-80977b223/"><img width="12.5%" src="
@@ -39,3 +40,4 @@ https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" />
 </a>
 <a href="https://www.nj-web.com/"><img width="10%" src="https://www.svgrepo.com/show/229032/internet.svg" />
 </a>
+</div>
